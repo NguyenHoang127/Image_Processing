@@ -1,0 +1,10 @@
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA09_XYZ\XLA09_XYZ\bin\Debug\XLA09_XYZ.exe.config
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA09_XYZ\XLA09_XYZ\bin\Debug\XLA09_XYZ.exe
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA09_XYZ\XLA09_XYZ\bin\Debug\XLA09_XYZ.pdb
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA09_XYZ\XLA09_XYZ\obj\Debug\XLA09_XYZ.csprojAssemblyReference.cache
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA09_XYZ\XLA09_XYZ\obj\Debug\XLA09_XYZ.Form1.resources
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA09_XYZ\XLA09_XYZ\obj\Debug\XLA09_XYZ.Properties.Resources.resources
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA09_XYZ\XLA09_XYZ\obj\Debug\XLA09_XYZ.csproj.GenerateResource.cache
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA09_XYZ\XLA09_XYZ\obj\Debug\XLA09_XYZ.csproj.CoreCompileInputs.cache
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA09_XYZ\XLA09_XYZ\obj\Debug\XLA09_XYZ.exe
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA09_XYZ\XLA09_XYZ\obj\Debug\XLA09_XYZ.pdb

@@ -1,0 +1,10 @@
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA08_HSV\XLA08_HSV\bin\Debug\XLA08_HSV.exe.config
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA08_HSV\XLA08_HSV\bin\Debug\XLA08_HSV.exe
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA08_HSV\XLA08_HSV\bin\Debug\XLA08_HSV.pdb
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA08_HSV\XLA08_HSV\obj\Debug\XLA08_HSV.csprojAssemblyReference.cache
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA08_HSV\XLA08_HSV\obj\Debug\XLA08_HSV.Form1.resources
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA08_HSV\XLA08_HSV\obj\Debug\XLA08_HSV.Properties.Resources.resources
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA08_HSV\XLA08_HSV\obj\Debug\XLA08_HSV.csproj.GenerateResource.cache
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA08_HSV\XLA08_HSV\obj\Debug\XLA08_HSV.csproj.CoreCompileInputs.cache
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA08_HSV\XLA08_HSV\obj\Debug\XLA08_HSV.exe
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA08_HSV\XLA08_HSV\obj\Debug\XLA08_HSV.pdb

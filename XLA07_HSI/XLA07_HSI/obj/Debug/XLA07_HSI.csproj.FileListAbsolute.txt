@@ -1,0 +1,10 @@
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA07_HSI\XLA07_HSI\bin\Debug\XLA07_HSI.exe.config
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA07_HSI\XLA07_HSI\bin\Debug\XLA07_HSI.exe
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA07_HSI\XLA07_HSI\bin\Debug\XLA07_HSI.pdb
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA07_HSI\XLA07_HSI\obj\Debug\XLA07_HSI.csprojAssemblyReference.cache
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA07_HSI\XLA07_HSI\obj\Debug\XLA07_HSI.Form1.resources
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA07_HSI\XLA07_HSI\obj\Debug\XLA07_HSI.Properties.Resources.resources
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA07_HSI\XLA07_HSI\obj\Debug\XLA07_HSI.csproj.GenerateResource.cache
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA07_HSI\XLA07_HSI\obj\Debug\XLA07_HSI.csproj.CoreCompileInputs.cache
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA07_HSI\XLA07_HSI\obj\Debug\XLA07_HSI.exe
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA07_HSI\XLA07_HSI\obj\Debug\XLA07_HSI.pdb
