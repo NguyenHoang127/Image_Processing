@@ -1,0 +1,10 @@
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA13_Segmentation_RGB\XLA13_Segmentation_RGB\bin\Debug\XLA13_Segmentation_RGB.exe.config
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA13_Segmentation_RGB\XLA13_Segmentation_RGB\bin\Debug\XLA13_Segmentation_RGB.exe
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA13_Segmentation_RGB\XLA13_Segmentation_RGB\bin\Debug\XLA13_Segmentation_RGB.pdb
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA13_Segmentation_RGB\XLA13_Segmentation_RGB\obj\Debug\XLA13_Segmentation_RGB.csprojAssemblyReference.cache
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA13_Segmentation_RGB\XLA13_Segmentation_RGB\obj\Debug\XLA13_Segmentation_RGB.Form1.resources
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA13_Segmentation_RGB\XLA13_Segmentation_RGB\obj\Debug\XLA13_Segmentation_RGB.Properties.Resources.resources
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA13_Segmentation_RGB\XLA13_Segmentation_RGB\obj\Debug\XLA13_Segmentation_RGB.csproj.GenerateResource.cache
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA13_Segmentation_RGB\XLA13_Segmentation_RGB\obj\Debug\XLA13_Segmentation_RGB.csproj.CoreCompileInputs.cache
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA13_Segmentation_RGB\XLA13_Segmentation_RGB\obj\Debug\XLA13_Segmentation_RGB.exe
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA13_Segmentation_RGB\XLA13_Segmentation_RGB\obj\Debug\XLA13_Segmentation_RGB.pdb
