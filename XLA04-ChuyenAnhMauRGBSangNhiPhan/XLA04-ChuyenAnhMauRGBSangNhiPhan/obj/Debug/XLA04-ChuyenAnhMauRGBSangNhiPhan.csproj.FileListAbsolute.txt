@@ -1,0 +1,10 @@
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA04-ChuyenAnhMauRGBSangNhiPhan\XLA04-ChuyenAnhMauRGBSangNhiPhan\bin\Debug\XLA04-ChuyenAnhMauRGBSangNhiPhan.exe.config
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA04-ChuyenAnhMauRGBSangNhiPhan\XLA04-ChuyenAnhMauRGBSangNhiPhan\bin\Debug\XLA04-ChuyenAnhMauRGBSangNhiPhan.exe
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA04-ChuyenAnhMauRGBSangNhiPhan\XLA04-ChuyenAnhMauRGBSangNhiPhan\bin\Debug\XLA04-ChuyenAnhMauRGBSangNhiPhan.pdb
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA04-ChuyenAnhMauRGBSangNhiPhan\XLA04-ChuyenAnhMauRGBSangNhiPhan\obj\Debug\XLA04-ChuyenAnhMauRGBSangNhiPhan.csprojAssemblyReference.cache
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA04-ChuyenAnhMauRGBSangNhiPhan\XLA04-ChuyenAnhMauRGBSangNhiPhan\obj\Debug\XLA04_ChuyenAnhMauRGBSangNhiPhan.Form1.resources
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA04-ChuyenAnhMauRGBSangNhiPhan\XLA04-ChuyenAnhMauRGBSangNhiPhan\obj\Debug\XLA04_ChuyenAnhMauRGBSangNhiPhan.Properties.Resources.resources
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA04-ChuyenAnhMauRGBSangNhiPhan\XLA04-ChuyenAnhMauRGBSangNhiPhan\obj\Debug\XLA04-ChuyenAnhMauRGBSangNhiPhan.csproj.GenerateResource.cache
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA04-ChuyenAnhMauRGBSangNhiPhan\XLA04-ChuyenAnhMauRGBSangNhiPhan\obj\Debug\XLA04-ChuyenAnhMauRGBSangNhiPhan.csproj.CoreCompileInputs.cache
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA04-ChuyenAnhMauRGBSangNhiPhan\XLA04-ChuyenAnhMauRGBSangNhiPhan\obj\Debug\XLA04-ChuyenAnhMauRGBSangNhiPhan.exe
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA04-ChuyenAnhMauRGBSangNhiPhan\XLA04-ChuyenAnhMauRGBSangNhiPhan\obj\Debug\XLA04-ChuyenAnhMauRGBSangNhiPhan.pdb
