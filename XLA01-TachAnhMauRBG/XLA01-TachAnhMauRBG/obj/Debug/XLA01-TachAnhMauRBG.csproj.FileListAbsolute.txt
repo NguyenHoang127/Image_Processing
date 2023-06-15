@@ -1,0 +1,10 @@
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA01-TachAnhMauRBG\XLA01-TachAnhMauRBG\bin\Debug\XLA01-TachAnhMauRBG.exe.config
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA01-TachAnhMauRBG\XLA01-TachAnhMauRBG\bin\Debug\XLA01-TachAnhMauRBG.exe
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA01-TachAnhMauRBG\XLA01-TachAnhMauRBG\bin\Debug\XLA01-TachAnhMauRBG.pdb
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA01-TachAnhMauRBG\XLA01-TachAnhMauRBG\obj\Debug\XLA01-TachAnhMauRBG.csprojAssemblyReference.cache
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA01-TachAnhMauRBG\XLA01-TachAnhMauRBG\obj\Debug\XLA01_TachAnhMauRBG.Form1.resources
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA01-TachAnhMauRBG\XLA01-TachAnhMauRBG\obj\Debug\XLA01_TachAnhMauRBG.Properties.Resources.resources
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA01-TachAnhMauRBG\XLA01-TachAnhMauRBG\obj\Debug\XLA01-TachAnhMauRBG.csproj.GenerateResource.cache
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA01-TachAnhMauRBG\XLA01-TachAnhMauRBG\obj\Debug\XLA01-TachAnhMauRBG.csproj.CoreCompileInputs.cache
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA01-TachAnhMauRBG\XLA01-TachAnhMauRBG\obj\Debug\XLA01-TachAnhMauRBG.exe
+C:\Users\HOANG DOAN\Xu_Li_Anh\XLA01-TachAnhMauRBG\XLA01-TachAnhMauRBG\obj\Debug\XLA01-TachAnhMauRBG.pdb
